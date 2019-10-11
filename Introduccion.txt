@@ -39,6 +39,29 @@ y automatización y no quiere interferencias por integraciones particulares.
 
 ****** 3. Qué supone para el prestador **********
 
++ Afronta una fuerte inversión para montar todas la infraestrcutura
++ Esfuerzo en el automatización para crecer o decrecer según la demanda.
++ Gobierno y control, para evaluar la calidad del servicio, controles de seguridad
++ modelización de costos, que le permitirá controlar la rentabilidad
+
+****** 4. Mitos sobre Cloud *********
+
++ Cloud es más barato. Es relativo depende del alcance y el contexto de la solución al problema. 
+P.e. Si yo pienso vivir en un determinado lugar el resto de mi vida, pues los más seguro es que me
+sea más rentable pensar en comprar una casa de cumpla mis necesidades, PERO, si constantemente debo
+cambiar de ciudad será más rentable alquilar una casa cada vez que llegue a una ciudad.
+
++ Cloud es más seguro: Pues dependerá de la capacidad de inversión del proveedor, claramente un proveedor
+que da servicio a millones de consumidores ha invertido dinero y esfuerzo en garantizar la seguridad de los activos
+que alojan sus recursos. En comparación con un montaje onpremise, seguramente los proveedores cloud constantemente está
+inviertiendo esfuerzos por la seguridad, mientras que en onpremise la inversión es reactiva, en cloud son inversiones preventivas.
+
++ Finalmente los datos no están en la nube, están alojados en los datacenter de los proveedores e incluso en diferentes regiones del planeta.
+
++ Cloud es un modelo más para considerar.
+
+
+
 
 
 
