@@ -1,0 +1,49 @@
+Qué es la nube, ventaja e inconvenientes
+
+******* 1. Qué es Cloud Computing  *********
+
+Modelo de entrega y consumo de servicios. No es una tecnología en sí,
+ni un desarrollo, sino una manera ágil de acceder a recursos o capacidades de uso inmediato.
+Según tú necesidad podrás tomar varios recursos tecnológicos y relacionarlos para tu solución
+y al final pagarás por el uso, te olvidas del mantenimiento físico de servidores, 
+adecuación de instalaciones, recursos limitados.
+
+- No es una tecnología
+
+El modelo funciona como un consumidor y un prestador:
+El consumidor necesita recursos o capacidad tecnológica de inmediato, sin interferencia operativa,
+negociaciones aburridas y la necesita rápido, el prestador tiene un catálogo de recursos disponibles 
+para que los tome y pague por su uso.
+
+Analogía: Máquina dispensadora de productos, seleccionas el productos y pagas por el. 
+Si quiere más, pagas más y lo obtendrás, pero no tienes más de lo que ofrece el surtidor.
+
+Algunas caracteristicas:
+
++ accesibilidad
++ pago por uso
++ escalabilidad
++ flexibilidad
+
+
+****** 2. Qué supone para el cliente final *********
+
++ Dejar claro que el consumidor o cliente final, no participa en el aprovisonamiento de los recursos.
++ No tiene el control del aprovisionamiento.
++ Leer el contrato y entender las condiciones de uso
++ Debe despreocuparse de cómo está montado el recurso.
++ El foco de consumir un recurso y crear valor con el, y no ver cómo se construyó el recurso.
++ El consumidor no debe pretender imponer su forma de crear recursos, porque Cloud quiere es industrialización
+y automatización y no quiere interferencias por integraciones particulares.
+
+
+****** 3. Qué supone para el prestador **********
+
+
+
+
+
+
+
+
+
